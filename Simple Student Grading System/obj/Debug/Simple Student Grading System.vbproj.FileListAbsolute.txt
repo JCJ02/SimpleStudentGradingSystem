@@ -1,0 +1,13 @@
+D:\Projects in Programming\vb.Net Projects\Simple Student Grading System\obj\Debug\Simple Student Grading System.vbproj.AssemblyReference.cache
+D:\Projects in Programming\vb.Net Projects\Simple Student Grading System\obj\Debug\Simple_Student_Grading_System.Resources.resources
+D:\Projects in Programming\vb.Net Projects\Simple Student Grading System\obj\Debug\Simple Student Grading System.vbproj.GenerateResource.cache
+D:\Projects in Programming\vb.Net Projects\Simple Student Grading System\obj\Debug\Simple Student Grading System.vbproj.CoreCompileInputs.cache
+D:\Projects in Programming\vb.Net Projects\Simple Student Grading System\bin\Debug\Simple Student Grading System.exe.config
+D:\Projects in Programming\vb.Net Projects\Simple Student Grading System\bin\Debug\Simple Student Grading System.exe
+D:\Projects in Programming\vb.Net Projects\Simple Student Grading System\bin\Debug\Simple Student Grading System.pdb
+D:\Projects in Programming\vb.Net Projects\Simple Student Grading System\bin\Debug\Simple Student Grading System.xml
+D:\Projects in Programming\vb.Net Projects\Simple Student Grading System\obj\Debug\Simple Student Grading System.exe
+D:\Projects in Programming\vb.Net Projects\Simple Student Grading System\obj\Debug\Simple Student Grading System.xml
+D:\Projects in Programming\vb.Net Projects\Simple Student Grading System\obj\Debug\Simple Student Grading System.pdb
+D:\Projects in Programming\vb.Net Projects\Simple Student Grading System\obj\Debug\Simple_Student_Grading_System.studentGradingSystemForm.resources
+D:\Projects in Programming\vb.Net Projects\Simple Student Grading System\obj\Debug\Simple_Student_Grading_System.resultForm.resources
